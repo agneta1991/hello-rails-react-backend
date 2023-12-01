@@ -19,8 +19,7 @@
 
 
 <br>
-this project is a practice task to see how rails and react app cann be set up in one app<br>
-<br>
+Hello Rails Backend app is a test project on implementing a Ruby on Rails back-end to serve an API for a separate React front-end. Here is the repository for the front-end: https://github.com/agneta1991/hello-rails-react-frontend<br>
 
 ## 🛠 Built With <a name="built-with"></a>
 <br>
